@@ -1,0 +1,9 @@
+<root>
+    <item
+        name='de.robv.android.xposed.XposedHelpers java.lang.Class&lt;?&gt; findClass(java.lang.String, java.lang.ClassLoader)'>
+        <annotation name='org.jetbrains.annotations.Contract'>
+            <val name="value" val="&quot;_,_-&gt;fail&quot;" />
+            <val name="pure" val="true" />
+        </annotation>
+    </item>
+</root>
